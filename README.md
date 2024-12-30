@@ -4,8 +4,11 @@
 **Domain**: Python Programming
 **Duration**: 12th December to 12th January 
 **Mentor**: Neela Santhosh Kumar
+
 **OVERVIEW OF THE PROJECT**
+
 **Project**: Simple Calculator
+
 ### Objective
 The objective of a simple calculator is to provide a straightforward and efficient tool for performing basic arithmetic operations. These include addition, subtraction, multiplication, and division. The main purposes are:
 1. **Ease of Use**: Allow users to quickly and easily calculate results without the need for complex tools or extensive training.
